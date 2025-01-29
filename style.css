@@ -1,0 +1,27 @@
+body {
+    background: wheat;
+}
+
+.parent {
+    border: 5px black solid;
+    height: 15rem;
+    width: 15rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40%;
+}
+
+div {
+    background-color: aqua;
+    border: 2px black solid;
+    height: 32%;
+    width: 32%;    
+}
+
+.g {
+    background-color: greenyellow;
+}
+
+.r {
+    background-color: red;
+}
